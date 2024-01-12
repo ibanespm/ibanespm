@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-#### I'm currently a Software Development and Data Science approach. With the vision of addressing complex challenges,
-optimization of algorithms and promoting innovation in these fields.
+#### I'm currently a Software Development and Data Science approach. With the vision of addressing complex challenges, optimization of algorithms and promoting innovation in these fields.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ibañes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibanespm/)](https://www.linkedin.com/in/ibanespm/)
 

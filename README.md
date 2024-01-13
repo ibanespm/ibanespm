@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning and Nodejs.
 - 📚 Always interested in learning more about new technologies. Some of the main stuff I'm always learning about: Python, JavaScript, Machine Learning, Functional Programming, Blockchain.
 - 💬 Ask me about  Data Science, web development, life in Lima Perú.
-- 📫 How to reach me: ibanesp59@gmail.com
+- 📫 How to reach me: ibanesp59@gmail.com .
  
